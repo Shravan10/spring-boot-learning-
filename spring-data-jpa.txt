@@ -1,0 +1,1 @@
+Hello This is sping data jpa file where we can store spring data jpa related content
